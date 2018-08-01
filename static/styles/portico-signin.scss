@@ -300,9 +300,10 @@ html {
     margin-top: 25px;
 }
 
-.register-page .register-form .bottom-text {
+.register-page .register-form .bottom-text,
+.login-page .login-page-container .bottom-text {
     font-size: 1.2rem;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .new-style .alert:not(.alert-info) {
